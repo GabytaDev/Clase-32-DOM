@@ -3,3 +3,8 @@
 //   un prompt ingresar un color en sistema hexadecimal, y una vez ingresado ponga el color de fondo 
 //   del body con dicho color.
 
+const color = prompt ("ingresar un color en sistema hexadecimal #")
+
+const fondo = document.querySelector("body")
+
+fondo.style.backgroundColor = color 
