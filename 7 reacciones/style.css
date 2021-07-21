@@ -1,0 +1,9 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.fondo{
+    background-color: rgb(226, 224, 224);
+    margin-left: 15px;
+    margin-right: 15px;
+}
